@@ -4,7 +4,7 @@
   <title><![CDATA[Category: temporary | Heavy Duty Team]]></title>
   <link href="http://team-hd.ru/categories/temporary/atom.xml" rel="self"/>
   <link href="http://team-hd.ru/"/>
-  <updated>2015-08-13T15:05:02+03:00</updated>
+  <updated>2015-08-13T15:06:18+03:00</updated>
   <id>http://team-hd.ru/</id>
   <author>
     <name><![CDATA[Andrey S. Kolesnichenko]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test post]]></title>
-    <link href="http://team-hd.ru/test-post/"/>
-    <updated>2015-08-13T14:53:01+03:00</updated>
-    <id>http://team-hd.ru/test-post</id>
-    <content type="html"><![CDATA[<p>Test</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Under construction]]></title>
