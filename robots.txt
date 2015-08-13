@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://team-hd.github.io/sitemap.xml 
