@@ -4,3 +4,9 @@
 [submodule ".themes/new-york"]
 	path = .themes/new-york
 	url = git://github.com/octothemes/new-york.git
+[submodule ".themes/casper"]
+	path = .themes/casper
+	url = https://github.com/jkrmr/casper.git
+[submodule ".themes/hpstr"]
+	path = .themes/hpstr
+	url = https://github.com/jez/hpstr-theme.git
