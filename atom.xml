@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Heavy Duty Team]]></title>
+  <title><![CDATA[Team HD]]></title>
   <link href="http://team-hd.ru/atom.xml" rel="self"/>
   <link href="http://team-hd.ru/"/>
-  <updated>2015-08-19T11:34:20+03:00</updated>
+  <updated>2015-08-27T10:38:47+03:00</updated>
   <id>http://team-hd.ru/</id>
   <author>
     <name><![CDATA[Andrey S. Kolesnichenko]]></name>
