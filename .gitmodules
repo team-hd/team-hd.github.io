@@ -10,3 +10,12 @@
 [submodule ".themes/hpstr"]
 	path = .themes/hpstr
 	url = https://github.com/jez/hpstr-theme.git
+[submodule ".themes/geeksoflondon"]
+	path = .themes/geeksoflondon
+	url = git://github.com/geeksoflondon/octopress-design.git
+[submodule ".themes/octollax"]
+	path = .themes/octollax
+	url = https://github.com/maverick2000/octollax.git
+[submodule ".themes/reynard"]
+	path = .themes/reynard
+	url = https://github.com/hyfather/reynard.git
