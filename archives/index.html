@@ -56,6 +56,15 @@ Aug 13 2015 posted in temporary ">
 <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<!-- JQuery for TOC -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="/javascripts/jquery.tableofcontents.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  // Revert jQuery's '$' alias, to avoid clashes with ender.js. NOTE: Use
+  // jQuery(...), instead of $(...) from here on.
+  jQuery.noConflict();
+</script>
+<script src="/javascripts/generate-toc.js" type="text/javascript"></script>
 
 
 </head>
@@ -63,40 +72,6 @@ Aug 13 2015 posted in temporary ">
 <body id="page" >
 
 <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
-<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
-	<button class="dl-trigger">Open Menu</button>
-	<ul class="dl-menu">
-		<li><a href="/">Главная</a></li>
-		<li><a href="/about/">О нас</a></li>
-<!--
-		<li>
-			<a href="#">About</a>
-			<ul class="dl-submenu">
-				<li>
-					<img src="" alt="Andrey S. Kolesnichenko photo" class="author-photo">
-					<h4>Andrey S. Kolesnichenko</h4>
-					<p></p>
-				</li>
-				
-				
-				
-				
-				
-				
-			</ul><!-- /.dl-submenu >
-		</li>
--->
-		<li>
-			<a href="#">Блог</a>
-			<ul class="dl-submenu">
-				<li><a href="/posts/">Все записи</a></li>
-				<li><a href="/categories/">Записи по категориям</a></li>
-			</ul>
-		</li>
-		
-	</ul><!-- /.dl-menu -->
-</nav><!-- /.dl-menuwrapper -->
-
 
 
 
@@ -104,12 +79,10 @@ Aug 13 2015 posted in temporary ">
   <article class="entry">
     <header class="header-title">
       <div class="header-title-wrap">
-        <h1 >Team HD</h1>
-        <h2 >Многофункциональный центр подготовки к циклическим видам спорта.</h1>
+        <h1 class="entry-title">Blog Archive</h1>
       </div><!-- /.header-title-wrap -->
     </header>
     <div class="entry-content">
-        <h1 class="entry-title">Blog Archive</h1>
       <div id="blog-archives">
 
 
