@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clubs on #HeavyDuty Team</title>
+    <link>http://teamhd.kolesnichenko.com/club/</link>
+    <description>Recent content in Clubs on #HeavyDuty Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 08 Sep 2015 09:28:03 +0300</lastBuildDate>
+    <atom:link href="http://teamhd.kolesnichenko.com/club/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Протоколы</title>
+      <link>http://teamhd.kolesnichenko.com/club/results/</link>
+      <pubDate>Tue, 08 Sep 2015 09:28:03 +0300</pubDate>
+      
+      <guid>http://teamhd.kolesnichenko.com/club/results/</guid>
+      <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
+                    &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
+                    &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
+                &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Календарь клуба</title>
+      <link>http://teamhd.kolesnichenko.com/club/events/</link>
+      <pubDate>Tue, 08 Sep 2015 09:27:52 +0300</pubDate>
+      
+      <guid>http://teamhd.kolesnichenko.com/club/events/</guid>
+      <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
+                    &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
+                    &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
+                &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Члены клуба</title>
+      <link>http://teamhd.kolesnichenko.com/club/members/</link>
+      <pubDate>Tue, 08 Sep 2015 09:27:20 +0300</pubDate>
+      
+      <guid>http://teamhd.kolesnichenko.com/club/members/</guid>
+      <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
+                    &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
+                    &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
+                &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

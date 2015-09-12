@@ -1,46 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
   <url>
-    <loc>http://team-hd.ru/under-construction/</loc>
-    <lastmod>2015-08-13T14:36:00+03:00</lastmod>
+    <loc>http://teamhd.kolesnichenko.com/</loc>
+    <lastmod>2015-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/</loc>
+    <loc>http://teamhd.kolesnichenko.com/post/site-start/</loc>
+    <lastmod>2015-09-11T00:00:00+00:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/archives/</loc>
+    <loc>http://teamhd.kolesnichenko.com/events/duathlon-20151010/</loc>
+    <lastmod>2015-09-09T10:21:49+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/categories/</loc>
+    <loc>http://teamhd.kolesnichenko.com/events/duathlon-20151010/regulation/</loc>
+    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/blog/archives/</loc>
+    <loc>http://teamhd.kolesnichenko.com/club/results/</loc>
+    <lastmod>2015-09-08T09:28:03+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/blog/</loc>
+    <loc>http://teamhd.kolesnichenko.com/club/events/</loc>
+    <lastmod>2015-09-08T09:27:52+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/posts/</loc>
+    <loc>http://teamhd.kolesnichenko.com/club/members/</loc>
+    <lastmod>2015-09-08T09:27:20+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/sponsors/</loc>
+    <loc>http://teamhd.kolesnichenko.com/achievements/</loc>
+    <lastmod>2015-09-08T09:26:29+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/events/</loc>
+    <loc>http://teamhd.kolesnichenko.com/staff/para/</loc>
+    <lastmod>2015-09-08T09:25:58+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/about/</loc>
+    <loc>http://teamhd.kolesnichenko.com/staff/athletics/</loc>
+    <lastmod>2015-09-08T09:25:52+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/duathlon20151010/</loc>
+    <loc>http://teamhd.kolesnichenko.com/staff/swim/</loc>
+    <lastmod>2015-09-08T09:25:19+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/events/duathlon20151010/</loc>
+    <loc>http://teamhd.kolesnichenko.com/staff/bike/</loc>
+    <lastmod>2015-09-08T09:25:15+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/posts/</loc>
+    <loc>http://teamhd.kolesnichenko.com/staff/triathlon/</loc>
+    <lastmod>2015-09-08T09:24:53+03:00</lastmod>
   </url>
+  
   <url>
-    <loc>http://team-hd.ru/categories/temporary/</loc>
+    <loc>http://teamhd.kolesnichenko.com/about/mission/</loc>
+    <lastmod>2015-09-07T16:57:48+03:00</lastmod>
   </url>
+  
+  <url>
+    <loc>http://teamhd.kolesnichenko.com/team/sheykin/</loc>
+    <lastmod>2015-09-09T10:21:49+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://teamhd.kolesnichenko.com/services/coaching/</loc>
+    <lastmod>2015-09-07T11:43:32+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://teamhd.kolesnichenko.com/team/xciber/</loc>
+    <lastmod>2015-09-09T10:21:49+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://teamhd.kolesnichenko.com/services/camp/</loc>
+    <lastmod>2015-09-07T11:55:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://teamhd.kolesnichenko.com/services/nutrition/</loc>
+    <lastmod>2015-09-07T10:51:58+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://teamhd.kolesnichenko.com/services/equipment/</loc>
+    <lastmod>2015-09-07T12:00:40+03:00</lastmod>
+  </url>
+  
 </urlset>
