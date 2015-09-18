@@ -2,28 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on #HeavyDuty Team</title>
-    <link>http://team-hd.ru/about/</link>
+    <link>http://teamhd.kolesnichenko.com/about/</link>
     <description>Recent content in Abouts on #HeavyDuty Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 07 Sep 2015 16:57:48 +0300</lastBuildDate>
-    <atom:link href="http://team-hd.ru/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://teamhd.kolesnichenko.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Наша миссия</title>
-      <link>http://team-hd.ru/about/mission/</link>
+      <link>http://teamhd.kolesnichenko.com/about/mission/</link>
       <pubDate>Mon, 07 Sep 2015 16:57:48 +0300</pubDate>
       
-      <guid>http://team-hd.ru/about/mission/</guid>
+      <guid>http://teamhd.kolesnichenko.com/about/mission/</guid>
       <description>&lt;p&gt;Раскрыть скрытый потенциал человеческого организма, с помощью профессионально построенных программ спортивной подготовки. Привить уверенность в доступности и реализации спортивного потенциала человека в любом возрасте, не зависимо от уровня физической подготовки и загруженности повседневными заботами.&lt;/p&gt;
 
-&lt;!-- Основными задачами нашего центра являются: --&gt;
+&lt;p&gt;Основными задачами нашего центра являются:&lt;/p&gt;
 
-&lt;!-- - Способствовать реализации генетического потенциала профессиональных спортсменов.
-- Реализовать программы по доступности спорта каждому человеку.
-- Повысить уровень мотивации к личностным достижениям.
-- Сплотить, посредством спорта людей занятых в различных сферах деятельности.
-- Способствовать развитию духовно-нравственных отношений, посредствам спортивных тренировок и соревнований. --&gt;
+&lt;ul&gt;
+&lt;li&gt;Способствовать реализации генетического потенциала профессиональных спортсменов.&lt;/li&gt;
+&lt;li&gt;Реализовать программы по доступности спорта каждому человеку.&lt;/li&gt;
+&lt;li&gt;Повысить уровень мотивации к личностным достижениям.&lt;/li&gt;
+&lt;li&gt;Сплотить, посредством спорта людей занятых в различных сферах деятельности.&lt;/li&gt;
+&lt;li&gt;Способствовать развитию духовно-нравственных отношений, посредствам спортивных тренировок и соревнований.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

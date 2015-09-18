@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on #HeavyDuty Team</title>
-    <link>http://team-hd.ru/post/</link>
+    <link>http://teamhd.kolesnichenko.com/post/</link>
     <description>Recent content in Posts on #HeavyDuty Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 11 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://team-hd.ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://teamhd.kolesnichenko.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Мы запустились!</title>
-      <link>http://team-hd.ru/post/site-start/</link>
+      <link>http://teamhd.kolesnichenko.com/post/site-start/</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://team-hd.ru/post/site-start/</guid>
+      <guid>http://teamhd.kolesnichenko.com/post/site-start/</guid>
       <description>&lt;p&gt;Теперь мы доступны в интернете. Скоро наш сайт наполнится важной и полезной информацией. Заходите чаще. Будем рады вас видеть!&lt;/p&gt;
 </description>
     </item>

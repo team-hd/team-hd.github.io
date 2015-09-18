@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on #HeavyDuty Team</title>
-    <link>http://teamhd.kolesnichenko.com/services/</link>
-    <description>Recent content in Services on #HeavyDuty Team</description>
+    <title>Услуги on #HeavyDuty Team</title>
+    <link>http://teamhd.kolesnichenko.com/tags/%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/</link>
+    <description>Recent content in Услуги on #HeavyDuty Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 07 Sep 2015 11:43:32 +0300</lastBuildDate>
-    <atom:link href="http://teamhd.kolesnichenko.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://teamhd.kolesnichenko.com/tags/%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Тренерское сопровождение</title>
@@ -53,20 +53,6 @@
 &lt;p&gt;Продолжительность - Минимум 3 дня. Максимум 21 день.&lt;/p&gt;
 
 &lt;p&gt;Количество участников – минимум 3, максимум 10. Без учета членов семьи спортсмена.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Консультации по питанию</title>
-      <link>http://teamhd.kolesnichenko.com/services/nutrition/</link>
-      <pubDate>Mon, 07 Sep 2015 10:51:58 +0300</pubDate>
-      
-      <guid>http://teamhd.kolesnichenko.com/services/nutrition/</guid>
-      <description>&lt;p&gt;Тренировочный процесс в современном мире спорта, не возможно реализовать без соответствующего питания.&lt;/p&gt;
-
-&lt;p&gt;При различной направленности нагрузки и разных периодов тренировочного процесса необходима индивидуальная программа питания, которая соответствует характеру выполняемых упражнений.&lt;/p&gt;
-
-&lt;p&gt;Наши тренеры совместно со спортивным врачом составят для Вас индивидуальную карту питания, которая позволит более продуктивно выполнять тренировочный план и достигнуть желаемого результата без причинения вреда собственному здоровью.&lt;/p&gt;
 </description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#HeavyDuty Team</title>
-    <link>http://team-hd.ru/</link>
+    <link>http://teamhd.kolesnichenko.com/</link>
     <description>Recent content on #HeavyDuty Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 11 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://team-hd.ru/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://teamhd.kolesnichenko.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Мы запустились!</title>
-      <link>http://team-hd.ru/post/site-start/</link>
+      <link>http://teamhd.kolesnichenko.com/post/site-start/</link>
       <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://team-hd.ru/post/site-start/</guid>
+      <guid>http://teamhd.kolesnichenko.com/post/site-start/</guid>
       <description>&lt;p&gt;Теперь мы доступны в интернете. Скоро наш сайт наполнится важной и полезной информацией. Заходите чаще. Будем рады вас видеть!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Кросс-дуатлон на Барских прудах</title>
-      <link>http://team-hd.ru/events/duathlon-20151010/</link>
+      <link>http://teamhd.kolesnichenko.com/events/duathlon-20151010/</link>
       <pubDate>Wed, 09 Sep 2015 10:21:49 +0300</pubDate>
       
-      <guid>http://team-hd.ru/events/duathlon-20151010/</guid>
+      <guid>http://teamhd.kolesnichenko.com/events/duathlon-20151010/</guid>
       <description>
 
 &lt;p&gt;10 октября 2015г в г. Фрязино Московской области пройдут соревнования по кросс-дуатлону. Вас ждут живописные окрестности &lt;a href=&#34;https://maps.yandex.ru/-/CVghqFkP&#34; target=&#34;_blank&#34;&gt;Барских прудов&amp;rdquo;&lt;/a&gt;! Заканчивайте стартовый сезон 2015г с нами!&lt;/p&gt;
@@ -54,15 +54,19 @@
 &lt;li&gt;&lt;a href=&#34;regulation&#34;&gt;Положение о проведении соревнований «Кросс-дуатлон на Барских прудах»&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.facebook.com/events/906899879364216/&#34; target=&#34;_blank&#34;&gt;Страница мероприятия в &lt;i class=&#34;fa fa-facebook&#34; style=&#34;font-size: large&#34;&gt;&lt;/i&gt;aceBook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;форма-регистрации:5e77cc261bc814fd526621d12950f416&#34;&gt;Форма регистрации&lt;/h3&gt;
+
+&lt;iframe src=&#34;https://docs.google.com/forms/d/10qacrpIrIZXc4dft5EydJ_F5XpG8oTzkLziAYa7s7vY/viewform?embedded=true&#34; width=&#34;760&#34; height=&#34;900&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Проведения соревнований «Кросс-дуатлон на Барских прудах»</title>
-      <link>http://team-hd.ru/events/duathlon-20151010/regulation/</link>
+      <link>http://teamhd.kolesnichenko.com/events/duathlon-20151010/regulation/</link>
       <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://team-hd.ru/events/duathlon-20151010/regulation/</guid>
+      <guid>http://teamhd.kolesnichenko.com/events/duathlon-20151010/regulation/</guid>
       <description>
 
 &lt;h1 id=&#34;положение:b4ff3cab6a3ba218bc9559e5db551219&#34;&gt;ПОЛОЖЕНИЕ&lt;/h1&gt;
@@ -172,10 +176,10 @@
     
     <item>
       <title>Протоколы</title>
-      <link>http://team-hd.ru/club/results/</link>
+      <link>http://teamhd.kolesnichenko.com/club/results/</link>
       <pubDate>Tue, 08 Sep 2015 09:28:03 +0300</pubDate>
       
-      <guid>http://team-hd.ru/club/results/</guid>
+      <guid>http://teamhd.kolesnichenko.com/club/results/</guid>
       <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
                     &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
                     &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
@@ -186,10 +190,10 @@
     
     <item>
       <title>Календарь клуба</title>
-      <link>http://team-hd.ru/club/events/</link>
+      <link>http://teamhd.kolesnichenko.com/club/events/</link>
       <pubDate>Tue, 08 Sep 2015 09:27:52 +0300</pubDate>
       
-      <guid>http://team-hd.ru/club/events/</guid>
+      <guid>http://teamhd.kolesnichenko.com/club/events/</guid>
       <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
                     &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
                     &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
@@ -200,10 +204,10 @@
     
     <item>
       <title>Члены клуба</title>
-      <link>http://team-hd.ru/club/members/</link>
+      <link>http://teamhd.kolesnichenko.com/club/members/</link>
       <pubDate>Tue, 08 Sep 2015 09:27:20 +0300</pubDate>
       
-      <guid>http://team-hd.ru/club/members/</guid>
+      <guid>http://teamhd.kolesnichenko.com/club/members/</guid>
       <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
                     &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
                     &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
@@ -214,10 +218,10 @@
     
     <item>
       <title>Наши достижения</title>
-      <link>http://team-hd.ru/achievements/</link>
+      <link>http://teamhd.kolesnichenko.com/achievements/</link>
       <pubDate>Tue, 08 Sep 2015 09:26:29 +0300</pubDate>
       
-      <guid>http://team-hd.ru/achievements/</guid>
+      <guid>http://teamhd.kolesnichenko.com/achievements/</guid>
       <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
                     &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
                     &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
@@ -228,10 +232,10 @@
     
     <item>
       <title>Тренеры по параолимпийским видам спорта</title>
-      <link>http://team-hd.ru/staff/para/</link>
+      <link>http://teamhd.kolesnichenko.com/staff/para/</link>
       <pubDate>Tue, 08 Sep 2015 09:25:58 +0300</pubDate>
       
-      <guid>http://team-hd.ru/staff/para/</guid>
+      <guid>http://teamhd.kolesnichenko.com/staff/para/</guid>
       <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
                     &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
                     &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
@@ -242,10 +246,10 @@
     
     <item>
       <title>Тренеры по легкой атлетике</title>
-      <link>http://team-hd.ru/staff/athletics/</link>
+      <link>http://teamhd.kolesnichenko.com/staff/athletics/</link>
       <pubDate>Tue, 08 Sep 2015 09:25:52 +0300</pubDate>
       
-      <guid>http://team-hd.ru/staff/athletics/</guid>
+      <guid>http://teamhd.kolesnichenko.com/staff/athletics/</guid>
       <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
                     &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
                     &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
@@ -256,10 +260,10 @@
     
     <item>
       <title>Тренеры по плаванию</title>
-      <link>http://team-hd.ru/staff/swim/</link>
+      <link>http://teamhd.kolesnichenko.com/staff/swim/</link>
       <pubDate>Tue, 08 Sep 2015 09:25:19 +0300</pubDate>
       
-      <guid>http://team-hd.ru/staff/swim/</guid>
+      <guid>http://teamhd.kolesnichenko.com/staff/swim/</guid>
       <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
                     &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
                     &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
@@ -270,10 +274,10 @@
     
     <item>
       <title>Тренеры по велоспорту</title>
-      <link>http://team-hd.ru/staff/bike/</link>
+      <link>http://teamhd.kolesnichenko.com/staff/bike/</link>
       <pubDate>Tue, 08 Sep 2015 09:25:15 +0300</pubDate>
       
-      <guid>http://team-hd.ru/staff/bike/</guid>
+      <guid>http://teamhd.kolesnichenko.com/staff/bike/</guid>
       <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
                     &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
                     &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
@@ -284,10 +288,10 @@
     
     <item>
       <title>Тренеры по триатлону/Ironman</title>
-      <link>http://team-hd.ru/staff/triathlon/</link>
+      <link>http://teamhd.kolesnichenko.com/staff/triathlon/</link>
       <pubDate>Tue, 08 Sep 2015 09:24:53 +0300</pubDate>
       
-      <guid>http://team-hd.ru/staff/triathlon/</guid>
+      <guid>http://teamhd.kolesnichenko.com/staff/triathlon/</guid>
       <description>&lt;p&gt;                &lt;div class=&#34;alert alert-warning fade in&#34;&gt;
                     &lt;a href=&#34;#&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34;&gt;&amp;times;&lt;/a&gt;
                     &lt;strong&gt;Внимание!&lt;/strong&gt; Раздел в процессе наполнения…
@@ -298,28 +302,30 @@
     
     <item>
       <title>Наша миссия</title>
-      <link>http://team-hd.ru/about/mission/</link>
+      <link>http://teamhd.kolesnichenko.com/about/mission/</link>
       <pubDate>Mon, 07 Sep 2015 16:57:48 +0300</pubDate>
       
-      <guid>http://team-hd.ru/about/mission/</guid>
+      <guid>http://teamhd.kolesnichenko.com/about/mission/</guid>
       <description>&lt;p&gt;Раскрыть скрытый потенциал человеческого организма, с помощью профессионально построенных программ спортивной подготовки. Привить уверенность в доступности и реализации спортивного потенциала человека в любом возрасте, не зависимо от уровня физической подготовки и загруженности повседневными заботами.&lt;/p&gt;
 
-&lt;!-- Основными задачами нашего центра являются: --&gt;
+&lt;p&gt;Основными задачами нашего центра являются:&lt;/p&gt;
 
-&lt;!-- - Способствовать реализации генетического потенциала профессиональных спортсменов.
-- Реализовать программы по доступности спорта каждому человеку.
-- Повысить уровень мотивации к личностным достижениям.
-- Сплотить, посредством спорта людей занятых в различных сферах деятельности.
-- Способствовать развитию духовно-нравственных отношений, посредствам спортивных тренировок и соревнований. --&gt;
+&lt;ul&gt;
+&lt;li&gt;Способствовать реализации генетического потенциала профессиональных спортсменов.&lt;/li&gt;
+&lt;li&gt;Реализовать программы по доступности спорта каждому человеку.&lt;/li&gt;
+&lt;li&gt;Повысить уровень мотивации к личностным достижениям.&lt;/li&gt;
+&lt;li&gt;Сплотить, посредством спорта людей занятых в различных сферах деятельности.&lt;/li&gt;
+&lt;li&gt;Способствовать развитию духовно-нравственных отношений, посредствам спортивных тренировок и соревнований.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Шейкин Владимир Александрович</title>
-      <link>http://team-hd.ru/team/sheykin/</link>
+      <link>http://teamhd.kolesnichenko.com/team/sheykin/</link>
       <pubDate>Wed, 09 Sep 2015 10:21:49 +0300</pubDate>
       
-      <guid>http://team-hd.ru/team/sheykin/</guid>
+      <guid>http://teamhd.kolesnichenko.com/team/sheykin/</guid>
       <description>
 
 &lt;h3 id=&#34;главный-тренер-многофункционального-спортивного-клуба-heavy-duty:5522e41f6c224c014146f60e6d4c3161&#34;&gt;Главный тренер многофункционального спортивного клуба «Heavy Duty»&lt;/h3&gt;
@@ -356,10 +362,10 @@
     
     <item>
       <title>Тренерское сопровождение</title>
-      <link>http://team-hd.ru/services/coaching/</link>
+      <link>http://teamhd.kolesnichenko.com/services/coaching/</link>
       <pubDate>Mon, 07 Sep 2015 11:43:32 +0300</pubDate>
       
-      <guid>http://team-hd.ru/services/coaching/</guid>
+      <guid>http://teamhd.kolesnichenko.com/services/coaching/</guid>
       <description>&lt;p&gt;Имея в своей команде тренеров с профессиональным образованием и с огромным опытом занятий спортом на самом высоком уровне, мы предлагаем широкий спектр услуг по составлению и ведению тренировочных программ для подготовки людей различного уровня физической подготовленности к соревнованиям по следующим видам спорта:
 - Триатлон включая и Ironman
 - Велоспорт
